@@ -3,6 +3,8 @@
     "description": "Earth GRA meta package",
     "type": "metapackage",
     "require": {
-        "magento/product-enterprise-edition": "2.4.5"
+        "magento/product-enterprise-edition": "2.4.5",
+        "magento/composer-dependency-version-audit-plugin": "~0.1",
+        "magento/composer-root-update-plugin": "~2.0"
     }
 }

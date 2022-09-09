@@ -1,0 +1,8 @@
+{
+    "name": "earth/meta-gra",
+    "description": "Earth GRA meta package",
+    "type": "metapackage",
+    "require": {
+        "magento/product-enterprise-edition": "2.4.5"
+    }
+}
